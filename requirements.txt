@@ -11,6 +11,7 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arviz==0.12.1
 astor==0.8.1
+markupsafe==1.0
 astropy==4.3.1
 astunparse==1.6.3
 async-timeout==4.0.2
