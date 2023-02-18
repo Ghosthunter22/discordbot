@@ -375,11 +375,8 @@ tifffile==2023.2.3
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
 torchsummary==1.5.1
 torchtext==0.14.1
-torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp38-cp38-linux_x86_64.whl
 tornado==6.2
 tqdm==4.64.1
 traitlets==5.7.1
