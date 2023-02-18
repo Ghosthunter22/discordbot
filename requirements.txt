@@ -65,6 +65,8 @@ decorator==4.4.2
 defusedxml==0.7.1
 descartes==1.1.0
 dill==0.3.6
+discord==2.1.0
+discord.py==2.1.1
 distributed==2022.2.1
 dlib==19.24.0
 dm-tree==0.1.8
@@ -90,6 +92,7 @@ fastjsonschema==2.16.2
 fastprogress==1.0.3
 fastrlock==0.8.1
 feather-format==0.4.1
+ffmpeg==1.4
 filelock==3.9.0
 firebase-admin==5.3.0
 fix-yahoo-finance==0.0.22
@@ -304,6 +307,7 @@ python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==8.0.0
 python-utils==3.5.2
+pytube==12.1.2
 pytz==2022.7.1
 pyviz-comms==2.2.1
 PyWavelets==1.4.1
