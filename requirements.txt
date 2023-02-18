@@ -11,8 +11,6 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arviz==0.12.1
 astor==0.8.1
-markupsafe==1.0
-astropy==4.3.1
 astunparse==1.6.3
 async-timeout==4.0.2
 atari-py==0.2.9
@@ -194,7 +192,7 @@ logical-unification==0.4.5
 LunarCalendar==0.0.9
 lxml==4.9.2
 Markdown==3.4.1
-markupsafe==1.0
+markupsafe==2.0.1
 marshmallow==3.19.0
 matplotlib==3.2.2
 matplotlib-venn==0.11.7
