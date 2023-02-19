@@ -1,1 +1,1 @@
-worker: discordbot.py
+web: gunicorn discordbot.py:app
